@@ -26,10 +26,10 @@
 ### Current Project: ✨PomoDoIt!✨ <!-- eventually this title should lead to the propduction version-->
 [How To Use PomoDoIt](https://youtu.be/A8ErLGWZHAY)
 HEre's a preview:
-https://media.giphy.com/media/GFF2HW11Cv9fJtTVpW/giphy.gif
+
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/GFF2HW11Cv9fJtTVpW/giphy.gif" width="100"/>
 </div>
 
 but you can read the full ReadMe on the [Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO) for more information.
