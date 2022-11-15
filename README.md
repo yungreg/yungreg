@@ -1,3 +1,17 @@
+<!-- 
+ todo: 
+- ✅insert project link  
+- insert video link
+- insert landing page Gif/Preview
+- brainstorm necessary sections
+- retape that walkthrough of your site (maybe could be your taping of yoru front end capstone??)
+- include contacts:
+  - email 
+  - linkedIn
+  - Github Profile 
+-->
+
+
 # Hello! I'm Reggie Williams, a Software Developer!👋
 ##About me:
 
@@ -11,26 +25,30 @@
 
 ### Current Project: ✨PomoDoIt!✨ <!-- eventually this title should lead to the propduction version-->
 [How To Use PomoDoIt](https://youtu.be/A8ErLGWZHAY)
-[Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO)  
+HEre's a preview, but you can read the full ReadMe on the [Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO) for more information.
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/GFF2HW11Cv9fJtTVpW/giphy-downsized-large.gif" width="100"/>
+</div>
+
+, but at a glance: 
 
 Current Features:
 - User Authentication and Profiles
 - 
 
 Planned Features:
-- improvements to profiles. (User Image, more visually navigable display)
-- improvem,ents to usr feedback in design:
+- dark mode/light mode toggle
+- improvements to profiles: 
+  - User Profile Image 
+  - more visually navigable display for User Sessions
+- improvements to user feedback in design:
   - links changing color on hover
-- automatically marking a task done when timer completes
-- automatically logging the time elapsed when timer completes
-- task list filter by search
-
-<!-- 
- todo: 
-- insert project link  
-- insert video link
-- in sert landing page image
--->
+  - 
+- improvements to user feedback in function:
+  - automatically marking a task done when timer completes
+  - automatically logging the time elapsed when timer completes
+  - task list filter by search
 
 <!--
 **yungreg/yungreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
