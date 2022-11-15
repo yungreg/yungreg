@@ -27,9 +27,8 @@
 [How To Use PomoDoIt](https://youtu.be/A8ErLGWZHAY)
 HEre's a preview, but you can read the full ReadMe on the [Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO) for more information.
 
-<div id="header" align="center">
+
   <img src="https://media.giphy.com/media/GFF2HW11Cv9fJtTVpW/giphy-downsized-large.gif" width="100"/>
-</div>
 
 , but at a glance: 
 
