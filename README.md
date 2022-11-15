@@ -34,7 +34,7 @@ https://user-images.githubusercontent.com/99050809/202032607-456e1654-77cf-47c2-
 
 but you can read the full ReadMe on the [Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO) for more information.
 
-###At a glance: 
+##At a glance: 
 
 Current Features:
 - User Authentication and Profiles
@@ -42,12 +42,13 @@ Current Features:
 
 Planned Features:
 - dark mode/light mode toggle
+- a "How To" instructional page
 - improvements to profiles: 
   - User Profile Image 
   - more visually navigable display for User Sessions
 - improvements to user feedback in design:
   - links changing color on hover
-  - 
+  - a tally system on the timer page that marks the sessions completed at a glance
 - improvements to user feedback in function:
   - automatically marking a task done when timer completes
   - automatically logging the time elapsed when timer completes
