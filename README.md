@@ -25,11 +25,11 @@
 
 ### Current Project: ✨PomoDoIt!✨ <!-- eventually this title should lead to the propduction version-->
 [How To Use PomoDoIt](https://youtu.be/A8ErLGWZHAY)
+
 Here's a preview:
 
 
-https://user-images.githubusercontent.com/99050809/202032186-3d8222c4-4e74-4ae8-9200-cef71aec4e35.mp4
-
+https://user-images.githubusercontent.com/99050809/202032607-456e1654-77cf-47c2-ae22-e0da894fbd23.mp4
 
 
 but you can read the full ReadMe on the [Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO) for more information.
