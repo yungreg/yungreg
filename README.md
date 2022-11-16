@@ -11,33 +11,32 @@
   - Github Profile 
 -->
 
-
+# Hello! I'm Reggie Williams, a Software Developer!👋
+## Contact me!
+### Click the image of your preferred contact method!
 <table>
   <tr>
-    <td valign="top">
+    <td valign="center">
      <a href="https://www.linkedin.com/in/reggie-williams-jr"> 
-      <img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png"></td>
+      <img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png">
+      </td>
+     </a>
+ 
+  <td valign="center">
+     <a href="https://github.com/yungreg"> 
+      <img src="https://user-images.githubusercontent.com/99050809/202238198-2c64a38c-eeec-4fe4-9e76-b88694f4212a.png" width="150" height="100">
+      </td>
+     </a>
+
+  <td valign="center">
+     <a href="https://mailto:rlwjr433@gmail.com"> 
+      <img src="https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png">
+      </td>
      </a>
   </tr>
 </table>
 
-# Hello! I'm Reggie Williams, a Software Developer!👋
-### contact me:
-Click the image of your preferred contact method!
-
-[![linkedin-logo-white-alpha_50_1_50](https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png)](https://www.linkedin.com/in/reggie-williams-jr/)
-
-[![GitHub_Logo_White_25_1_85](https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png)](https://github.com/yungreg)
-
-[![download_3_65](https://user-images.githubusercontent.com/99050809/202238198-2c64a38c-eeec-4fe4-9e76-b88694f4212a.png)](https://mailto:rlwjr433@gmail.com/)
-
-
-
-[Connect on LinkedIn](https://www.linkedin.com/in/reggie-williams-jr/):
-[Contact via email](mailto:rlwjr433@gmail.com):
-[Checkout my full github profile](https://github.com/yungreg)
-
-### 🔭 I’m currently working on a Software Developoment apprenticeship at Nashville Software School. 🌱 I’m currently learning ...
+## 🔭 I’m currently working on a Software Developoment apprenticeship at Nashville Software School, learning:
 - HTML5 & CSS 3
 - Javasript (ES2022)
 - React JS
