@@ -15,10 +15,9 @@
 <table>
   <tr>
     <td valign="top">
-     <a href="https://www.linkedin.com/in/reggie-williams-jr/"> 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+     <a href="https://www.linkedin.com/in/reggie-williams-jr"> 
+      <img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png"></td>
      </a>
-    <td valign="top"><img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png"/></td>
   </tr>
 </table>
 
