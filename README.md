@@ -13,7 +13,7 @@
 
 # Hello! I'm Reggie Williams, a Software Developer!👋
 ## Contact me!
-### Click the image of your preferred contact method!
+### Take a look at my lates t project below, then Click the image of your preferred contact method to reach out!
 <table>
   <tr>
     <td valign="center">
@@ -44,22 +44,23 @@
 - Agile Methodology
 - Project Management
 
-### Current Project: ✨PomoDoIt!✨ <!-- eventually this title should lead to the propduction version-->
+## Current Project: ✨PomoDoIt!✨ <!-- eventually this title should lead to the propduction version-->
 [How To Use PomoDoIt](https://youtu.be/A8ErLGWZHAY)
 
-Here's a preview:
-
+### Here's a preview:
 
 https://user-images.githubusercontent.com/99050809/202032607-456e1654-77cf-47c2-ae22-e0da894fbd23.mp4
 
 
-but you can read the full ReadMe on the [Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO) for more information.
+### Read the full ReadMe on the [Project Repo](https://github.com/yungreg/pomodoit-app/tree/DEMO) for more information.
 
-##At a glance: 
+## Features Overview: 
 
 Current Features:
 - User Authentication and Profiles
-- 
+- Countdown Timer customized to user input
+- Confetti celebration feedback upon timer completion
+- Session detail input form and storage
 
 Planned Features:
 - dark mode/light mode toggle
