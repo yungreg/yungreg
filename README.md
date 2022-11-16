@@ -13,7 +13,7 @@
 
 # Hello! I'm Reggie Williams, a Software Developer!👋
 ## Contact me!
-### Look at my latest work, then Click the image of your preferred contact method to reach out!
+### Look at my latest work, then click the image of your preferred contact method to reach out!
 <table>
   <tr>
     <td valign="center">
