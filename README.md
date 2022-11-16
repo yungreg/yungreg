@@ -13,7 +13,7 @@
 
 # Hello! I'm Reggie Williams, a Software Developer!👋
 ## Contact me!
-### Take a look at my lates t project below, then Click the image of your preferred contact method to reach out!
+### Look at my latest work, then Click the image of your preferred contact method to reach out!
 <table>
   <tr>
     <td valign="center">
@@ -36,9 +36,11 @@
   </tr>
 </table>
 
-## 🔭 I’m currently working on a Software Developoment apprenticeship at Nashville Software School, learning:
+## 🔭 Currently working on a Software Development apprenticeship at Nashville Software School, learning:
 - HTML5 & CSS 3
 - Javasript (ES2022)
+- Jquery 
+- @styled-components
 - React JS
 - Git/Github
 - Agile Methodology
