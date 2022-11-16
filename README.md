@@ -12,11 +12,13 @@
 -->
 
 
+
+
 # Hello! I'm Reggie Williams, a Software Developer!👋
 ### contact me:
-Click the link to:
+Click the image of yoru preferred contact method!
 
-[![linkedin-logo-white-alpha](https://user-images.githubusercontent.com/99050809/202235048-897c780b-b6a0-47f9-8f5a-60e8970d4a12.png)](https://www.linkedin.com/in/reggie-williams-jr/)
+[![linkedin-logo-white-alpha_50_1_50](https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png)](https://www.linkedin.com/in/reggie-williams-jr/)
 
 
 [Connect on LinkedIn](https://www.linkedin.com/in/reggie-williams-jr/):
