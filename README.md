@@ -37,27 +37,22 @@
 
 ## 🔭 Currently working on a Software Development apprenticeship at Nashville Software School, learning:
 
-<table>
+<table style="display: flex; flex-direction: row;">
   <tr>
     <td valign="center">
      <a title="HTML5"
         href="https://en.wikipedia.org/wiki/HTML5"> 
-      <img src="https://user-images.githubusercontent.com/99050809/203356718-7a35e277-e266-46b5-b067-8ed2e7e85932.png" width="44" height="44">
-      </td>
-     </a>
-                                                                                                           
-  <td valign="center">
-     <a href="https://github.com/yungreg"> 
-      <img src="https://user-images.githubusercontent.com/99050809/202238198-2c64a38c-eeec-4fe4-9e76-b88694f4212a.png" width="150" height="100">
+      <img src="https://user-images.githubusercontent.com/99050809/203356718-7a35e277-e266-46b5-b067-8ed2e7e85932.png" width="50" height="50">
       </td>
      </a>
 
-  <td valign="center">
-     <a href="https://mailto:rlwjr433@gmail.com"> 
-      <img src="https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png">
+   <tr>
+    <td valign="center">
+     <a title="CSS3"
+        href="https://en.wikipedia.org/wiki/CSS#CSS_3"> 
+      <img src="https://user-images.githubusercontent.com/99050809/203357974-88912260-d927-4097-89a6-d8dfab77ed36.png" width="50" height="50">
       </td>
      </a>
-  </tr>
 </table>
 
 - HTML5 & CSS 3
