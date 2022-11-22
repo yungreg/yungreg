@@ -12,8 +12,7 @@
 -->
 
 # Hello! I'm Reggie Williams, a Software Developer!👋
-## Contact me!
-### Look at my latest work, then click the image of your preferred contact method to reach out!
+## Contact me below!
 <table>
   <tr>
     <td valign="center">
@@ -37,6 +36,29 @@
 </table>
 
 ## 🔭 Currently working on a Software Development apprenticeship at Nashville Software School, learning:
+
+<table>
+  <tr>
+    <td valign="center">
+     <a href="https://en.wikipedia.org/wiki/HTML5"> 
+      <img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png" width="150" height="100>
+      </td>
+     </a>
+ 
+  <td valign="center">
+     <a href="https://github.com/yungreg"> 
+      <img src="https://user-images.githubusercontent.com/99050809/202238198-2c64a38c-eeec-4fe4-9e76-b88694f4212a.png" width="150" height="100">
+      </td>
+     </a>
+
+  <td valign="center">
+     <a href="https://mailto:rlwjr433@gmail.com"> 
+      <img src="https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png">
+      </td>
+     </a>
+  </tr>
+</table>
+
 - HTML5 & CSS 3
 - Javasript (ES2022)
 - Jquery 
