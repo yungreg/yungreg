@@ -48,6 +48,17 @@
       <img src="https://user-images.githubusercontent.com/99050809/203357974-88912260-d927-4097-89a6-d8dfab77ed36.png" width="50" height="50"/>
      </a>
  
+  <a title="JS"
+        href="https://en.wikipedia.org/wiki/JavaScript"> 
+      <img src="https://user-images.githubusercontent.com/99050809/203362975-42b50e09-5fbf-4480-8b5b-a3554206e26c.png" width="50" height="50"/>
+     </a>
+
+  <a title="NodeJS"
+        href="https://en.wikipedia.org/wiki/Node.js"> 
+      <img src="https://user-images.githubusercontent.com/99050809/203363467-204c3d36-6af2-4a3c-bbd8-220d5311265e.png" width="50" height="50"/>
+     </a>
+
+
   </p>
 
 
