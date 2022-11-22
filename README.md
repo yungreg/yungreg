@@ -37,23 +37,19 @@
 
 ## 🔭 Currently working on a Software Development apprenticeship at Nashville Software School, learning:
 
-<table style="display: flex; flex-direction: row;">
-  <tr>
-    <td valign="center">
+<p align="left">
      <a title="HTML5"
         href="https://en.wikipedia.org/wiki/HTML5"> 
-      <img src="https://user-images.githubusercontent.com/99050809/203356718-7a35e277-e266-46b5-b067-8ed2e7e85932.png" width="50" height="50">
-      </td>
+      <img src="https://user-images.githubusercontent.com/99050809/203356718-7a35e277-e266-46b5-b067-8ed2e7e85932.png" width="50" height="50"/>
      </a>
 
-   <tr>
-    <td valign="center">
-     <a title="CSS3"
+  <a title="CSS3"
         href="https://en.wikipedia.org/wiki/CSS#CSS_3"> 
-      <img src="https://user-images.githubusercontent.com/99050809/203357974-88912260-d927-4097-89a6-d8dfab77ed36.png" width="50" height="50">
-      </td>
+      <img src="https://user-images.githubusercontent.com/99050809/203357974-88912260-d927-4097-89a6-d8dfab77ed36.png" width="50" height="50"/>
      </a>
-</table>
+ 
+  </p>
+
 
 - HTML5 & CSS 3
 - Javasript (ES2022)
