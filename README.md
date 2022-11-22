@@ -37,7 +37,7 @@
 
 ## 🔭 Currently working on a Software Development apprenticeship at Nashville Software School, learning:
 
-<p align="left">
+<div>
      <a title="HTML5"
         href="https://en.wikipedia.org/wiki/HTML5"> 
       <img src="https://user-images.githubusercontent.com/99050809/203356718-7a35e277-e266-46b5-b067-8ed2e7e85932.png" width="50" height="50"/>
@@ -57,19 +57,22 @@
         href="https://en.wikipedia.org/wiki/Node.js"> 
       <img src="https://user-images.githubusercontent.com/99050809/203363467-204c3d36-6af2-4a3c-bbd8-220d5311265e.png" width="50" height="50"/>
      </a>
-
-
-  </p>
-
-
-- HTML5 & CSS 3
-- Javasript (ES2022)
-- Jquery 
-- @styled-components
-- React JS
-- Git/Github
-- Agile Methodology
-- Project Management
+ 
+ <a title="React"
+        href="https://en.wikipedia.org/wiki/React_(JavaScript_library)"> 
+      <img src="https://user-images.githubusercontent.com/99050809/203364121-f6484b14-11a9-4e34-bcd0-4c2d02c5634b.png" width="50" height="50"/>
+     </a>
+  
+   <a title="JQuery"
+        href="https://en.wikipedia.org/wiki/JQuery"> 
+      <img src="https://user-images.githubusercontent.com/99050809/203364567-8ec6f423-528f-4806-aed5-16e8d49675fc.png" width="50" height="50"/>
+     </a>
+ 
+  <a title="Git"
+        href="https://en.wikipedia.org/wiki/Git"> 
+      <img src="https://user-images.githubusercontent.com/99050809/203365260-aa2918a5-7542-4cef-955b-f0492b0da94e.png" width="50" height="50"/>
+     </a>
+</div>
 
 ## Current Project: ✨PomoDoIt!✨ <!-- eventually this title should lead to the propduction version-->
 [How To Use PomoDoIt](https://youtu.be/A8ErLGWZHAY)
