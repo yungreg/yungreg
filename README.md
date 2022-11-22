@@ -105,7 +105,12 @@ Planned Features:
   - automatically marking a task done when timer completes
   - automatically logging the time elapsed when timer completes
   - task list filter by search
+  
+## Stats!!
+![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=radical&layout=compact)
 
+  
 <!--
 **yungreg/yungreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
