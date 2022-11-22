@@ -10,6 +10,8 @@
   - linkedIn
   - Github Profile 
 -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,git,github,nodejs,react,jquery,figma,vscode&theme=light)](https://skillicons.dev)
+
 
 # Hello! I'm Reggie Williams, a Software Developer!👋
 ## Contact me below!
