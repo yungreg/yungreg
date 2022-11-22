@@ -74,8 +74,7 @@ Planned Features:
   - task list filter by search
   
 ## Stats!!
-![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=radical)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=radical&layout=compact)
+![Reggie's GitHub stats](https://github-readme-stats.vercel.app/api?username=yungreg&show_icons=true&theme=merko)
 
   
 <!--
