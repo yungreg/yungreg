@@ -19,19 +19,19 @@
   <tr>
     <td valign="center">
      <a href="https://www.linkedin.com/in/reggie-williams-jr"> 
-      <img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png" width="120" height="70">
+      <img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png" width="150" height="70">
       </td>
      </a>
  
   <td valign="center">
-     <a href="https://github.com/yungreg"> 
+     <a href="https://mailto:rlwjr433@gmail.com"> 
       <img src="https://user-images.githubusercontent.com/99050809/202238198-2c64a38c-eeec-4fe4-9e76-b88694f4212a.png"  width="120" height="70">
       </td>
      </a>
 
   <td valign="center">
-     <a href="https://mailto:rlwjr433@gmail.com"> 
-      <img src="https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png" width="100" height="70">
+     <a href="https://github.com/yungreg"> 
+      <img src="https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png" width="1500" height="70">
       </td>
      </a>
   </tr>
