@@ -31,7 +31,7 @@
 
   <td valign="center">
      <a href="https://github.com/yungreg"> 
-      <img src="https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png" width="1500" height="70">
+      <img src="https://user-images.githubusercontent.com/99050809/202237143-eea6b8d1-ace5-4b4e-9b83-85d5949c4fd1.png" width="150" height="70">
       </td>
      </a>
   </tr>
