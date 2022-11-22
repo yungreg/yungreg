@@ -40,11 +40,12 @@
 <table>
   <tr>
     <td valign="center">
-     <a href="https://en.wikipedia.org/wiki/HTML5"> 
-      <img src="https://user-images.githubusercontent.com/99050809/202236439-fe2295d0-8d4b-414f-a5f3-0cb8a1366c4c.png" width="150" height="100>
+     <a title="HTML5"
+        href="https://en.wikipedia.org/wiki/HTML5"> 
+      <img src="https://user-images.githubusercontent.com/99050809/203356718-7a35e277-e266-46b5-b067-8ed2e7e85932.png" width="44" height="44">
       </td>
      </a>
- 
+                                                                                                           
   <td valign="center">
      <a href="https://github.com/yungreg"> 
       <img src="https://user-images.githubusercontent.com/99050809/202238198-2c64a38c-eeec-4fe4-9e76-b88694f4212a.png" width="150" height="100">
