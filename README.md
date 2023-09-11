@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-## 🔭 Currently working on a Software Development apprenticeship at Nashville Software School, learning:
+## 🔭 Recently finished a Software Development apprenticeship at Nashville Software School, learning:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,cs,git,github,nodejs,react,jquery,figma,vscode&theme=light)](https://skillicons.dev)
 
 ## Current Project: ✨PomoDoIt!✨ <!-- eventually this title should lead to the propduction version-->
